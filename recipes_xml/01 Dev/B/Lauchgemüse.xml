@@ -42,6 +42,10 @@
                 <fr:igdtQuantity/>
                 <fr:igdtName ref="muskat">Muskat</fr:igdtName>
             </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="zwiebel">Zwiebel</fr:igdtName>
+            </fr:igdtListLine>
         </fr:igdtList>
     </fr:recipeIngredients>
     <fr:recipeInstructions>
