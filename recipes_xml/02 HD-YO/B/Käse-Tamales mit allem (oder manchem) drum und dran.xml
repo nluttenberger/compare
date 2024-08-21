@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
-<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-66a1ec3f-3ef0-4f81-9cc0-63f6cd39c5fc">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="YO02_KäseTamales_mit_allem_(oder_manchem)_drum_und_dran" rcpOneWordName="Maistaschen">
     <fr:meta>
         <fr:book>Flavour</fr:book>
         <fr:chapter>02 Partner</fr:chapter>

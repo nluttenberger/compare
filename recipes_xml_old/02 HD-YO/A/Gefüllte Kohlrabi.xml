@@ -1,0 +1,96 @@
+<?xml version="1.0" ?><!DOCTYPE stylesheet  SYSTEM 'file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd'><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="D-027">
+    <fr:meta>
+        <fr:book>KochbuchHD</fr:book>
+        <fr:chapter>03 Gemüse</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Gefüllte Kohlrabi</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName>Kohlrabi</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="kohlrabi">Kohlrabi</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="fleischbrühe">Fleischbrühe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="stärke">Kartoffelmehl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>etwas</fr:igdtQuantity>
+                <fr:igdtName ref="wein">Wein</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="muskat">Muskatblüthe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>einige</fr:igdtQuantity>
+                <fr:igdtName ref="zitrone">Zitronenscheiben</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>einige</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eidotter</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList noshow="noshow" fromRecipe="null" fromRcpID="null" fromBook="null" fromChapter="null">
+            <fr:igdtListName>Kalbfleisch-Farce</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>½ Pfund</fr:igdtQuantity>
+                <fr:igdtName ref="kalbfleisch">Kalbfleisch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="nierenfett">Mark- oder Nierenfett</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="muskat">Muskat</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="weißbrot">Weißbrod</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="ei">Eier</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+        <fr:igdtList noshow="noshow" fromRecipe="Blumenkohl" fromRcpID="D-028" fromBook="KochbuchHD" fromChapter="03 Gemüse">
+            <fr:igdtListName>Krebsbutter</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>20</fr:igdtQuantity>
+                <fr:igdtName ref="krebs">Krebse</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>12 Loth</fr:igdtQuantity>
+                <fr:igdtName ref="butter">Butter</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Zubereitung</fr:instrStepName>
+            <fr:instrStepText>Wenn die Kohlrabi recht rund geschält sind, werden sie mit einem Ausstecher becherartig ausgehöhlt, Deckel dazu geschnitten und in kochendem Wasser nur eben abgekocht. Dann füllt man jeden Becher mit einer guten, nicht zu steifen [Kalbfleisch-Farce](Farce von Kalbfleisch für Suppen- und Ragout-Klöße anzuwenden.html), bindet einen Deckel darauf und setzt sie, den Deckel nach oben, in einem flachen Topfe neben einander, dann gibt man so viel kochende Fleischbrühe und ein reichlich Stück Butter dazu, daß die Kohlrabi damit bedeckt werden und läßt sie hierin gahr kochen. Beim Anrichten setzt man solche vorsichtig auf eine Schüssel, bindet die Fäden ab, rührt etwas Kartoffelmehl an die Brühe, gibt etwas weißen Wein, Muskatblüthe, nach Belieben Krebsbutter und einige Zitronenscheiben daran, rührt sie mit einigen Eidottern ab und richtet sie über die Kohlrabi an. </fr:instrStepText>
+            <fr:instrStepText>Man gibt dieses Gericht als Mittelschüssel.</fr:instrStepText>
+            <fr:instrStepText>Man kann zur Bereitung desselben wohl 2 Stunden annehmen.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
